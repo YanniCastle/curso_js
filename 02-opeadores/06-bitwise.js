@@ -14,4 +14,10 @@
 //Byte: 00000111 -> 7
 //Byte: 00001000 -> 8
 //Byte: 00001001 -> 9
-console.log(1 | 3);//1
+console.log(1 | 3);//
+console.log(1 | 4);//
+console.log(1 | 5);//
+
+console.log(1 & 3);//
+console.log(1 & 4);//
+console.log(1 & 5);//
